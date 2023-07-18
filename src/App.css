@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.parent {
+  display: flex;
+}
+.child_component {
+  margin: 20px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding: 0px 12px;
+  width: 50%;
+}
+
+.light {
+  background-color: antiquewhite;
+}
+
+.dark {
+  background-color: black;
+  color: #fff;
+}
